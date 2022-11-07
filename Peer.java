@@ -8,5 +8,6 @@ public class Peer {
         menu.start();
         menu.join();
         options.join();
+        System.out.println("P2P_FILE_SHARE");
     }
 }
